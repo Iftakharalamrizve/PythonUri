@@ -1,0 +1,6 @@
+num1 = int(input())
+num2 = int(input())
+num3 = float(input())
+salary = float(num2 * num3)
+print("NUMBER = %d" %num1)
+print("SALARY = U$ %0.2f" %salary)
